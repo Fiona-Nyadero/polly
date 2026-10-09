@@ -1,0 +1,168 @@
+[
+    {
+        "id": "word_0001",
+        "partOfSpeech": "greeting",
+        "translations" : {
+            "ar": "",
+            "cn": "",
+            "de": "hallo",
+            "en": "hello",
+            "es": "hola",
+            "fr": "bonjour",
+            "it": "ciao",
+            "pt": "",
+            "rs": "",
+            "sw": "habari"
+        },
+        "difficulty": "1"
+    },
+    {
+        "id": "word_0002",
+        "partOfSpeech": "noun",
+        "translations" : {
+            "ar": "",
+            "cn": "",
+            "de": "",
+            "en": "stability",
+            "es": "",
+            "fr": "",
+            "it": "stabilità",
+            "pt": "",
+            "rs": "",
+            "sw": "usawa"
+        },
+        "difficulty": "1"
+    },
+    {
+        "id": "word_0003",
+        "partOfSpeech": "adverb",
+        "translations" : {
+            "ar": "",
+            "cn": "",
+            "de": "",
+            "en": "somewhere",
+            "es": "",
+            "fr": "",
+            "it": "da qualche parte",
+            "pt": "",
+            "rs": "",
+            "sw": ["mahali", "pahali"]
+        },
+        "difficulty": "1"
+    },
+    {"id": "word_0004",
+        "partOfSpeech": "noun",
+        "translations" : {
+            "ar": "",
+            "cn": "",
+            "de": "",
+            "en": ["flood", "inundation", "deluge"],
+            "es": "",
+            "fr": "",
+            "it": "inondazione",
+            "pt": "",
+            "rs": "",
+            "sw": "mafuriko"
+        },
+        "difficulty": "1"
+    },
+    {"id": "word_0005",
+        "partOfSpeech": "adjective",
+        "translations" : {
+            "ar": "",
+            "cn": "",
+            "de": "",
+            "en": ["little", "minimum", "(the) least"],
+            "es": "",
+            "fr": "",
+            "it": "minimo",
+            "pt": "",
+            "rs": "",
+            "sw": "kidogo"
+        },
+        "difficulty": "1"
+    },
+    {
+        "id": "word_0006",
+        "partOfSpeech": "noun",
+        "translations" : {
+            "ar": "",
+            "cn": "",
+            "de": "",
+            "en": ["speed", "velocity"],
+            "es": "",
+            "fr": "",
+            "it": "velocità",
+            "pt": "",
+            "rs": "",
+            "sw": "mwendo"
+        },
+        "difficulty": "1"
+    },
+    {"id": "word_0007",
+        "partOfSpeech": "noun",
+        "translations" : {
+            "ar": "",
+            "cn": "",
+            "de": "",
+            "en": ["special effect", "special effects"],
+            "es": "",
+            "fr": "",
+            "it": "effetto speciale",
+            "pt": "",
+            "rs": "",
+            "sw": ""
+        },
+        "difficulty": "1"
+    },
+    {
+        "id": "word_0008",
+        "partOfSpeech": "adjective",
+        "translations" : {
+            "ar": "",
+            "cn": "",
+            "de": "",
+            "en": ["decimate", "tenth", "10th"],
+            "es": "",
+            "fr": "",
+            "it": "decimo",
+            "pt": "",
+            "rs": "",
+            "sw": "ya kumi"
+        },
+        "difficulty": "1"
+    },
+    {
+        "id": "word_0009",
+        "partOfSpeech": "adjective",
+        "translations" : {
+            "ar": "",
+            "cn": "",
+            "de": "",
+            "en": ["only", "special", "sole"],
+            "es": "",
+            "fr": "",
+            "it": "unico",
+            "pt": "",
+            "rs": "",
+            "sw": "pekee"
+        },
+        "difficulty": "1"
+    },
+    {"id": "word_0010",
+        "partOfSpeech": "verb",
+        "translations" : {
+            "ar": "",
+            "cn": "",
+            "de": "",
+            "en": ["to consider", "to evaluate"],
+            "es": "",
+            "fr": "",
+            "it": "valutare",
+            "pt": "",
+            "rs": "",
+            "sw": "kupima"
+        },
+        "difficulty": "1"
+    }
+]

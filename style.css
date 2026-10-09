@@ -1,0 +1,42 @@
+body {
+    height: 100vh;
+    margin: 0;
+    background-color: #f4f4f9;
+    font-family: sans-serif;
+    color: maroon;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#app {
+    text-align: center;
+}
+
+#flashcard {
+    background-color: white;
+    padding: 3rem;
+    border-radius: 12px;
+    box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+    margin-bottom: 20px;
+
+    min-width: 300px;
+    min-height: 150px;
+}
+
+button {
+    padding: 10px 20px;
+    margin: 0 5px;
+    border: none;
+    border-radius: 8px;
+    font-size: 16px;
+    cursor: pointer;
+    background-color: maroon;
+    color: white;
+}
+
+button:hover {
+    background-color: pink;
+    color: maroon;
+}
